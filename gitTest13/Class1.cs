@@ -2,7 +2,7 @@
 {
     public class Class1
     {
-        //Shabat Shalom
+        //Veten Tal Umatar
         
     }
 }
